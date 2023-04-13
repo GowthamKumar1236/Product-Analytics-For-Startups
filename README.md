@@ -8,4 +8,4 @@ Problem Statement: The objective of this project is to improve the product conve
 
 ●	Poisson Regression might give better results.But due to more zeros in data,It's also not giving better results. So we are experimenting with Negative Binomial Distribution.
 
-●	We are working on Mini Batch K-Means clustering on the products column and number of customers to recommend the products to the user.
+●	We are working on Mini Batch K-Means clustering on the products column and the number of customers in order to recommend products to the user.
